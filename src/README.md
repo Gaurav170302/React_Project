@@ -1,6 +1,6 @@
 # New project
 
-We can get weather information by city name.
+Get weather information by city name.
 
 # Name of Developer
 
